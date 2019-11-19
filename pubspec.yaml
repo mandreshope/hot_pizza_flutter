@@ -41,28 +41,7 @@ flutter:
   uses-material-design: true
 
   assets:
-   - assets/images/board.png
-   - assets/images/backgroud.png
-   
-   - assets/images/ing/n1.png
-   - assets/images/ing/n2.png
-   - assets/images/ing/n3.png
-   - assets/images/ing/n4.png
-   - assets/images/ing/n5.png
-   - assets/images/ing/n6.png
-
-   - assets/images/p1.png
-   - assets/images/p2.png
-   - assets/images/p3.png
-   - assets/images/p4.png
-   - assets/images/p5.png
-   - assets/images/p6.png
-   - assets/images/ing1.png
-   - assets/images/ing2.png
-   - assets/images/ing3.png
-   - assets/images/ing4.png
-   - assets/images/ing5.png
-   - assets/images/ing6.png
+   - assets/images/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
