@@ -107,7 +107,6 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin{
   @override
   Widget build(BuildContext context) {
     final double height = MediaQuery.of(context).size.height;
-    final double width = MediaQuery.of(context).size.width;
 
     pizza = [
       PizzaModel(id: 1, title: "Pizza olive", image: "assets/images/p1.png", price: 10000, description: ''),
